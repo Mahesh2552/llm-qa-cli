@@ -1,0 +1,24 @@
+Company Policies Overview
+=========================
+
+1. Working Hours
+- Standard working hours are from 9:00 AM to 6:00 PM, Monday to Friday.
+- Flexible hours are allowed with manager approval, provided you complete 8 hours per day.
+
+2. Remote Work
+- Employees may work from home up to 2 days per week with prior approval.
+- For critical releases or incidents, employees may be requested to be available outside regular hours.
+
+3. Leave Policy
+- Casual leave: 12 days per year.
+- Sick leave: 10 days per year.
+- Planned leave should be applied at least 3 days in advance when possible.
+
+4. Data Security
+- Do not share confidential company data outside authorized tools.
+- Use strong passwords and enable multi-factor authentication where available.
+
+5. Learning and Development
+- Employees are encouraged to spend time learning new technologies relevant to their role.
+- Courses, certifications, and internal projects (like LLM prototypes) can be proposed to your manager.
+

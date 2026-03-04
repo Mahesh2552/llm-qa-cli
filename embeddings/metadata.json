@@ -1,0 +1,172 @@
+[
+  {
+    "id": "data\\company_policies.txt::chunk_0",
+    "source": "data\\company_policies.txt",
+    "text": "Company Policies Overview\n=========================\n\n1. Working Hours\n- Standard working hours are from 9:00 AM to 6:00 PM, Monday to Friday.\n- Flexible hours are allowed with manager approval, provided you complete 8 hours per day.\n\n2. Remote Work\n- Employees may work from home up to 2 days per week with prior approval.\n- For critical releases or incidents, employees may be requested to be available outside regular hours.\n\n3. Leave Policy\n- Casual leave: 12 days per year.\n- Sick leave: 10 days"
+  },
+  {
+    "id": "data\\company_policies.txt::chunk_1",
+    "source": "data\\company_policies.txt",
+    "text": "ble outside regular hours.\n\n3. Leave Policy\n- Casual leave: 12 days per year.\n- Sick leave: 10 days per year.\n- Planned leave should be applied at least 3 days in advance when possible.\n\n4. Data Security\n- Do not share confidential company data outside authorized tools.\n- Use strong passwords and enable multi-factor authentication where available.\n\n5. Learning and Development\n- Employees are encouraged to spend time learning new technologies relevant to their role.\n- Courses, certifications, and"
+  },
+  {
+    "id": "data\\company_policies.txt::chunk_2",
+    "source": "data\\company_policies.txt",
+    "text": "raged to spend time learning new technologies relevant to their role.\n- Courses, certifications, and internal projects (like LLM prototypes) can be proposed to your manager."
+  },
+  {
+    "id": "data\\data_analytics_tips.txt::chunk_0",
+    "source": "data\\data_analytics_tips.txt",
+    "text": "Data Analytics Tips\n===================\n\n1. Understand the Business Question\n- Before writing SQL or Python, clarify what metric or decision the stakeholder cares about.\n\n2. Start with Simple Baselines\n- Create simple counts, averages, or trends before building complex models.\n\n3. Data Quality Checks\n- Always check for missing values, outliers, and inconsistent categories.\n- Validate numbers against a known source or previous report when possible.\n\n4. Visual First\n- Use line charts for trends, b"
+  },
+  {
+    "id": "data\\data_analytics_tips.txt::chunk_1",
+    "source": "data\\data_analytics_tips.txt",
+    "text": "st a known source or previous report when possible.\n\n4. Visual First\n- Use line charts for trends, bar charts for comparisons, and scatter plots for relationships.\n- Visual exploration often reveals data issues faster than reading tables.\n\n5. Communicate Clearly\n- Explain assumptions, data limitations, and how the result should (and should not) be used.\n- Use short summaries and highlight key insights for non-technical stakeholders.\n\n6. Iterate\n- Treat each analysis as a first version, get feedb"
+  },
+  {
+    "id": "data\\data_analytics_tips.txt::chunk_2",
+    "source": "data\\data_analytics_tips.txt",
+    "text": "ghts for non-technical stakeholders.\n\n6. Iterate\n- Treat each analysis as a first version, get feedback, and refine."
+  },
+  {
+    "id": "data\\product_faq.txt::chunk_0",
+    "source": "data\\product_faq.txt",
+    "text": "Product FAQ\n===========\n\nQ1: What does our analytics product do?\nA1: It collects data from multiple sources, cleans it, and provides dashboards and alerts to business users.\n\nQ2: What kind of data sources are supported?\nA2: We support relational databases, CSV files, Excel files, REST APIs, and selected cloud data warehouses.\n\nQ3: How frequently is data refreshed?\nA3: By default, data is refreshed every hour, but this can be configured per data pipeline.\n\nQ4: Who is the target user?\nA4: Business"
+  },
+  {
+    "id": "data\\product_faq.txt::chunk_1",
+    "source": "data\\product_faq.txt",
+    "text": "every hour, but this can be configured per data pipeline.\n\nQ4: Who is the target user?\nA4: Business analysts, data engineers, and product managers who need quick insights from data.\n\nQ5: How does the product handle sensitive data?\nA5: Sensitive fields can be masked, encrypted, or excluded from reports based on data governance rules."
+  },
+  {
+    "id": "data\\NN_HOLIDAY LIST 2025.pdf::chunk_0",
+    "source": "data\\NN_HOLIDAY LIST 2025.pdf",
+    "text": "HOLIDAY LIST 2025  \nDay Date  Festival  \nWednesday   01-Jan-25  New Year's Day  \n      \nFriday  14-Mar -25 Holi \n      \nFriday  18-Apr-25 Good Friday  \n      \nThursday  01-May -25 Maharashtra Day  \n      \nFriday  15-Aug-25 Independence Day  \n      \nWednesday  27-Aug-25 Ganesh Chaturthi  \n      \nThursday  02-Oct-25 Gandhi Jayanti  \n      \nMonday  20-Oct-25 Diwali  \n      \nTuesday  21-Oct-25 Diwali  \n      \nThursday  25-Dec-25 Christmas"
+  },
+  {
+    "id": "data\\NN_HOLIDAY LIST 2025.pdf::chunk_1",
+    "source": "data\\NN_HOLIDAY LIST 2025.pdf",
+    "text": "Thursday  25-Dec-25 Christmas"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_0",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "NutaNXT  Leave  Policy  \n1. Definition  and Scope  \nThis document defines the guidelines for employees availing time off from work for a vacation  \nor to deal with personal exigencies. This applies to all employees of NutaNXT Technologies,  \nIndia.  \n \n2. Framework  \n \n• Leave  Year  corresponds  to the calendar  year  from  January  - December.  \n• The leave  entitled  for the year  is credited  to the employee  on the 1st of January  of every  year.  \n• An employee on leave shall  not take any"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_1",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "to the employee  on the 1st of January  of every  year.  \n• An employee on leave shall  not take any service or accept any other  (part time or  full time) \nemployment during leave period.  \n• An employee  on leave shall  not return  to duty before  expiry  of the leave  granted  to him unless \nhe is permitted to do so by the authority that sanctioned him the leave.  \n• Any leave  availed  without  prior  intimation  / approval  will be treated  as Loss  of Pay. \n• In hybrid mode, Leaves request"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_2",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "prior  intimation  / approval  will be treated  as Loss  of Pay. \n• In hybrid mode, Leaves requested on Work -from -office days, will require substantial supporting  \ndocumentation  for approval.  These  days  are typically  considered  critical  for business  operations,  \nand any leave request must be accompanied by valid proof (e.g., medical certificates, personal  \nemergency documentation, etc.). Additionally, work from home is not permitted on these days,  \nexcept under exceptional circum"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_3",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "tc.). Additionally, work from home is not permitted on these days,  \nexcept under exceptional circumstances, subject to prior approval from the employee's  \nreporting manager.  \n• Remote Work: Working remotely from a location other than the assigned base location is not  \npermitted. Employees must obtain prior approval if they need to work from outside their base  \nlocation.  \n• A temporary  provision  for an interim  period:  If an employee  takes  leave  on both  sides  of a \nweekend  (e.g.  f"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_4",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "sion  for an interim  period:  If an employee  takes  leave  on both  sides  of a \nweekend  (e.g.  from  Friday  to Monday,  the intervening  non-working  days  (Saturday  and Sunday  in \nthis example)  will also be counted  as leave . \n \n \n3. Types  of Leave  \nEmployees  would  be governed  by the following  types  of leaves  \n \nI. Casual  Leave  (CL): CL is to cater  for unplanned  absence  of employees  due to \nunforeseen/ casual reasons. Employees will be eligible for 10 days of CL per leave"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_5",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "mployees  due to \nunforeseen/ casual reasons. Employees will be eligible for 10 days of CL per leave year.  \nII. Paid Leave (PL): PL is to cater to a planned leave. Employees will be eligible for 12 days \nof PL per leave year.  \nIII. Maternity  Leave  (ML):  ML is granted  for pre-natal  and post -natal  health  care.  Employees \nare eligible for 90 days of ML.  \nIV. Paternity  Leave  (PL):  Paternity  Leave  eligibility  is 5 days  \nV. Bereavement  Leave  (BL):  Bereavement  Leave  eligibility"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_6",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "nity  Leave  eligibility  is 5 days  \nV. Bereavement  Leave  (BL):  Bereavement  Leave  eligibility  is 2 days  \n \n \n \n \n4. Casual  Leave  (CL) \nCL can  be availed  for a minimum  of half-a-day and  a maximum of  3 days in  one spell.  Intervening \nholidays  shall  not be counted  as CL. It can be combined  with  GL but should  be in one block  \neither  prefixing  or suffixing  GL. Any un-availed  CL at the close  of the Leave  Year will  lapse.  \n \n4.1. Employees  who  have  completed  1 year"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_7",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "CL at the close  of the Leave  Year will  lapse.  \n \n4.1. Employees  who  have  completed  1 year  of service  \n \n• All employees are eligible for 10 days of Casual Leave with full pay in a Leave Year. This \nwill be credited at the beginning of Leave Year, viz., 1st Jan of every year and earned by \nemployees on a pro -rata basis as 1 Casual Leave per month during the Year.  \n4.2. Employees  who  are yet to complete  1 year  of service  \n \n• Such  employees  shall  be entitled  to Casual  Leave"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_8",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "are yet to complete  1 year  of service  \n \n• Such  employees  shall  be entitled  to Casual  Leave  on a prorata  basis.  This will be credited \non the date of joining.  \n• If the employee  joins  on or before  15th, 1 day of CL will be credited  for that month.  \n• If the employee  joins  after  15th, she will not be eligible  for CL that month.  \n• The total  # of CL days  will not exceed  10 days.  \n \n5. Paid  Leave  (PL) \nThis type  of leave  is only  applicable  for employees  who  have  c"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_9",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "ays.  \n \n5. Paid  Leave  (PL) \nThis type  of leave  is only  applicable  for employees  who  have  completed  one year  of service  with \nthe company.  \n5.1. Employees  who  have  completed  1 year  of service  \n \n• 12 days PL @ 1 day for every 30 days of service will be credited to the employees \naccount on the 1st every month. For this purpose, periods spent on leave other than \nLeave without Pay will count as service.  \n \n5.2. For All employees  \n \n• PL can be applied  for a minimum  of one d"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_10",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "y will count as service.  \n \n5.2. For All employees  \n \n• PL can be applied  for a minimum  of one day. \n• Intervening  holidays  shall  not be counted  as PL. \n• PL can be combined  with  CL, but should  be in one block  either  prefixing  or suffixing  CL. \n• PL can be accumulated up to a maximum  of 24 days at  the end of the  leave  year. An \nemployee ceases to earn General Leave when it exceeds 24 days.  \n• PL cannot  be adjusted  against  notice  period.  \n \n6. Maternity  Leave  (ML)  \n• F"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_11",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "ds 24 days.  \n• PL cannot  be adjusted  against  notice  period.  \n \n6. Maternity  Leave  (ML)  \n• Female employees are eligible for 12 weeks of ML of which not more than six weeks \ncould precede the date of expected delivery.  \n• To be eligible for ML, the employee should have worked for a period of not less than \neighty days during the twelve months immediately preceding the date of her expected \n \ndelivery.  \n• ML should  be availed  in one spell.  \n• The application for ML should be supporte"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_12",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "delivery.  \n• ML should  be availed  in one spell.  \n• The application for ML should be supported with a doctor's certificate confirming \npregnancy and expected date of delivery / date of delivery as the case may be.  \n• Holidays could be prefixed and / or suffixed to leave. Holidays, if any, intervening  \nduring the period of leave shall be treated as ML.  \n• Employees who are covered under the ESIC should go through the procedure \nprescribed under the ESIC for maternity benefits.  \n \n \n7."
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_13",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "he ESIC should go through the procedure \nprescribed under the ESIC for maternity benefits.  \n \n \n7. Paternity  Leave  \n• All male  employees  are entitled  to paternity  leave  with  full pay upto  5 days.  \n• These  5 days  leave  to be availed  in one stretch.  \n• The employee must give notice to the company of the spouse's  confinement atleast 2 \nweeks in advance.  \n• Intervening  holidays  will not be accounted.  \n \n8. Bereavement  Leave  \n• Employees can avail up to 2 days of personal leave"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_14",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "l not be accounted.  \n \n8. Bereavement  Leave  \n• Employees can avail up to 2 days of personal leave at full pay following the death of a \ngrand parent, parent, parents -in-law, sibling, spouse or child.  \n• Intervening  holidays  will not be accounted  \n \nThe supervisor  should  be notified  immediately  by the employee  of a bereavement  leave.  \n9. Leave  without  pay \n• The Management may consider grant of Leave Without Pay and allowances to an \nemployee under special circumstances when no o"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_15",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "ider grant of Leave Without Pay and allowances to an \nemployee under special circumstances when no other leave, by rule, is admissible and \nthe employee concerned applies for the same.  \n• Such leave should be supported by documentary proof to substantiate the necessity to \ngo on leave.  \n• The duration  of such  Leave  without  pay shall  not exceed  30 days  on any one occasion.  \n• Leave  without  pay exceeding  30 days  will fall under  “Long  Leave”  category.  \n \n10. Long  Leave  \n• This l"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_16",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "ut  pay exceeding  30 days  will fall under  “Long  Leave”  category.  \n \n10. Long  Leave  \n• This leave  is applicable  only  under  special  circumstances,  such  as, Post -Maternity  & \nMedical emergencies.  \n• Max  period  that can be availed  is 90 days.  \n• Beyond  90 days,  the employee  will cease  to be an employee  of NutaNXT  and his/her  last \nworking day will be construed as the date when he/she goes on such leave.  \n• The Management  reserves  the right  to sanction  / reject  such"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_17",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "when he/she goes on such leave.  \n• The Management  reserves  the right  to sanction  / reject  such  leaves  \n• This will be considered  as leave  without  pay. \n \n11. Absence  from  duty  on expiry  of Leave  / Absence  from  duty  without \napplying for leave  \n \n• If an employee absents herself without leave for more than 6 calendar days or remains \nabsent for more than 6 calendar days beyond the period of leave granted, s/he shall be \ndeemed as having voluntarily left and abandoned the servi"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_18",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "he period of leave granted, s/he shall be \ndeemed as having voluntarily left and abandoned the service of the Company from the \ndate  of commencement  of such  unauthorized  absence,  provided  in all such  cases  of \n \nabsence, the employee fails to report for duty within the time specified in the notice \nserved by the Management to the employee.  \n• A notice sent by Registered Post by the Management to the address of the employee \nnoted in the records of the Company as also to the address if a"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_19",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "ment to the address of the employee \nnoted in the records of the Company as also to the address if any indicated by the \nemployee in the leave application shall be deemed good for this purpose.  \n \n12. Leave  during  notice  period  \n• For employees who are on notice period (i.e. the period from the date of resignation to \nthe actual date  of relieving), the leave has to be with  advance notice and  will have to be \napproved by the Division Head (and not their immediate supervisor).  \n• Leave  a"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_20",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "d  will have to be \napproved by the Division Head (and not their immediate supervisor).  \n• Leave  availed  without  advance  notice  will be treated  as Leave  Without  Pay. \n• Employees  serving  their  notice  period  are not eligible  to take  leave,  except  in medical \nemergencies or other exceptional circumstances, subject to prior approval from their reporting \nmanager and the HR department. Any unapproved leave during this period may result in an \nextension of the notice period or deduc"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_21",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "t. Any unapproved leave during this period may result in an \nextension of the notice period or deductions from final settlements as per company policy.  NP will \nbe extended with company discretions.  \n \n13. Mid-Year  Leave  Utilization  Requirement  \n• Employees are required  to utilize at least  50%  of their  projected  annual  leave entitlement by the \nmid-year point (June 30th, for a January –December leave cycle). This ensures balanced leave \nusage throughout the year and supports work -li"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_22",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "–December leave cycle). This ensures balanced leave \nusage throughout the year and supports work -life balance while maintaining workforce \navailability.  \n \n14. Team  Lead  Leave  Coordination  Policy:  \n \n• A temporary provision for an interim period:  To ensure uninterrupted team operations and effective \nproject management, no more than one team lead is permitted to be on leave at the same time. \nTeam leads are required to coordinate their leave plans in advance with their reporting managers"
+  },
+  {
+    "id": "data\\NutaNXT Leave Policy 2025.pdf::chunk_23",
+    "source": "data\\NutaNXT Leave Policy 2025.pdf",
+    "text": "e. \nTeam leads are required to coordinate their leave plans in advance with their reporting managers \nand peers to avoid overlapping absences.  Exceptions may be granted in Extraordinary circumstances \nsubject  to management approval ."
+  }
+]

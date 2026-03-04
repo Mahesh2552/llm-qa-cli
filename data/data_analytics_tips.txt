@@ -1,0 +1,24 @@
+Data Analytics Tips
+===================
+
+1. Understand the Business Question
+- Before writing SQL or Python, clarify what metric or decision the stakeholder cares about.
+
+2. Start with Simple Baselines
+- Create simple counts, averages, or trends before building complex models.
+
+3. Data Quality Checks
+- Always check for missing values, outliers, and inconsistent categories.
+- Validate numbers against a known source or previous report when possible.
+
+4. Visual First
+- Use line charts for trends, bar charts for comparisons, and scatter plots for relationships.
+- Visual exploration often reveals data issues faster than reading tables.
+
+5. Communicate Clearly
+- Explain assumptions, data limitations, and how the result should (and should not) be used.
+- Use short summaries and highlight key insights for non-technical stakeholders.
+
+6. Iterate
+- Treat each analysis as a first version, get feedback, and refine.
+

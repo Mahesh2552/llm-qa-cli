@@ -1,0 +1,18 @@
+Product FAQ
+===========
+
+Q1: What does our analytics product do?
+A1: It collects data from multiple sources, cleans it, and provides dashboards and alerts to business users.
+
+Q2: What kind of data sources are supported?
+A2: We support relational databases, CSV files, Excel files, REST APIs, and selected cloud data warehouses.
+
+Q3: How frequently is data refreshed?
+A3: By default, data is refreshed every hour, but this can be configured per data pipeline.
+
+Q4: Who is the target user?
+A4: Business analysts, data engineers, and product managers who need quick insights from data.
+
+Q5: How does the product handle sensitive data?
+A5: Sensitive fields can be masked, encrypted, or excluded from reports based on data governance rules.
+
