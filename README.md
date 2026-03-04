@@ -78,5 +78,3 @@ Then type your questions in the terminal. Type `exit` / `quit` / `q` (or press `
 - **Vector search**: Use cosine similarity between question and chunk/sentence embeddings to find the most relevant pieces of text.
 - **Retrieval-based QA (non-generative)**: Instead of generating new free-form answers, the system selects the best matching sentence from your documents, keeping answers grounded and predictable.
 # CLI QA Chatbot with Hugging Face RAG
-
-This is a small LLM project that implements a **command-line QA chatbot** using a simple **Retrieval-Augmented Generation (RAG)** pipeline with **Hugging Face** models.
