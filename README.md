@@ -1,4 +1,4 @@
-## CLI QA Assistant over Local Documents
+## CLI QA Chatbot with Hugging Face RAG
 
 This is a small LLM project that implements a **command-line QA assistant** over your own documents (policies, FAQs, PDFs, etc.).
 It uses a **SentenceTransformer embedding model** to find the most relevant sentence in your data for each question, instead of relying on a large generative chat model.
@@ -77,4 +77,4 @@ Then type your questions in the terminal. Type `exit` / `quit` / `q` (or press `
 - **Embeddings**: Convert text into vectors so semantically similar texts are close in vector space.
 - **Vector search**: Use cosine similarity between question and chunk/sentence embeddings to find the most relevant pieces of text.
 - **Retrieval-based QA (non-generative)**: Instead of generating new free-form answers, the system selects the best matching sentence from your documents, keeping answers grounded and predictable.
-# CLI QA Chatbot with Hugging Face RAG
+
