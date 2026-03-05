@@ -1,4 +1,4 @@
-## CLI QA Chatbot with Hugging Face RAG
+## CLI-Based QA Assistant Using Document Embeddings
 
 This is a small LLM project that implements a **command-line QA assistant** over your own documents (policies, FAQs, PDFs, etc.).
 It uses a **SentenceTransformer embedding model** to find the most relevant sentence in your data for each question, instead of relying on a large generative chat model.
